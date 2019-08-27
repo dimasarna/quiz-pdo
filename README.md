@@ -1,2 +1,2 @@
-# quiz-pdo
+# Quiz w/ PDO
 Quiz webapps with postgresql
